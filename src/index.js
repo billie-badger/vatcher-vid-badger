@@ -36,6 +36,7 @@ class App extends Component {
 
     return (
       <div>
+        <h1 className="title">Vid Badger</h1>
         <SearchBar onSearchTermChange={videoSearch}/>
         <VideoDetail video={this.state.selectedVideo}/>
         <VideoList

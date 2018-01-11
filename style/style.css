@@ -25,3 +25,9 @@
 .list-group-item:hover {
   background-color: #eee;
 }
+
+.title{
+  text-align: center;
+  font-size: 72pt;
+  font-weight: bold;
+}

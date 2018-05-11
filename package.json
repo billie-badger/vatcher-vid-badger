@@ -1,4 +1,5 @@
 {
+  "homepage": "https://billie-badger.github.io/vatcher-vid-badger",
   "name": "redux-simple-starter",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
@@ -18,7 +19,7 @@
     "babel-preset-react": "^6.1.18",
     "chai": "^3.5.0",
     "chai-jquery": "^2.0.0",
-    "jquery": "^2.2.1",
+    "gh-pages": "^1.1.0",
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
     "react-addons-test-utils": "^0.14.7",
@@ -27,6 +28,7 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
+    "jquery": "^3.3.1",
     "lodash": "^3.10.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
